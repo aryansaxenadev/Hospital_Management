@@ -1,0 +1,14 @@
+cffi
+cryptography
+Django
+django-cors-headers
+django-rest-framework
+django-rest-knox
+djangorestframework
+gunicorn
+psycopg2
+pycparser
+pytz
+six
+sqlparse
+whitenoise
